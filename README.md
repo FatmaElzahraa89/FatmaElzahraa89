@@ -2,7 +2,7 @@
    **Designer who codes**, based in Luxembourg.
 
    - 🎨 8+ years in brand, packaging, e-learning and UI design
-   - 💻 Software engineering student at 42 Luxembourg (C, C++, Linux, Git)
+   - 💻 Software engineering who studied at 42 Luxembourg (C, C++, Linux, Git)
    - 🌐 Started my career building websites in HTML, CSS and JavaScript
    - 🔧 Currently: Webserv, a non-blocking HTTP server in C++. I'm building the core engine and designing its "post office" demo interface
 
